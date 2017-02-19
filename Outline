@@ -1,9 +1,11 @@
 <DOCTYPEHtml!>
   <html>
     <head>
-
+      <title/>
     </head>
     <body>
-    
+      <p>
+        This is a test file.
+      </p>
     </body>
   </html>
