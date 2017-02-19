@@ -1,0 +1,10 @@
+body{
+  margin: 50px auto;
+  width:75%;
+}
+nav ul, footer ul{
+  font-family:'helvetica','arial','Sans-serif';
+  padding: 0px;
+  list-style:none;
+  font-weight:bold;
+}
