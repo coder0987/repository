@@ -23,7 +23,7 @@ h1{
   font-size:3em;
   font-family:'helvetica','arial','Sans-serif';
    margin:(10px,0px,10px,0px);
-  background-color:red;
+  background-color:rgb:(255,0,0);
   padding:(10px,10px,10px,10px);
 }
 p{
