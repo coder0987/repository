@@ -23,6 +23,7 @@ h1{
   font-size:3em;
   font-family:'helvetica','arial','Sans-serif';
   color:red;
+  margin:(10,0,10,0);
 }
 p{
   font-size:1.5em;
