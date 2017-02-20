@@ -42,6 +42,6 @@ ul.posts{
 ul.posts li{
   list-style:none;
 }
-h1,id=main{
+id=main{
   color:red;
 }
